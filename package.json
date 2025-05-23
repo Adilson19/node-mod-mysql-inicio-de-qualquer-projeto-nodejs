@@ -23,6 +23,7 @@
     "mysql2": "^3.11.3",
     "pg": "^8.13.0",
     "pg-hstore": "^2.3.4",
+    "run-dev": "^0.0.1-security",
     "sequelize": "^6.37.4",
     "validator": "^13.12.0"
   }
